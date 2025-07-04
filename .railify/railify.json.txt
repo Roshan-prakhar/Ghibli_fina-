@@ -1,0 +1,6 @@
+{
+  "rootDir": "backend",
+  "buildCommand": "./mvnw package",
+  "startCommand": "java -jar target/*.jar",
+  "port": 8080
+}

@@ -1,31 +1,32 @@
-# Maven / Java-related ignores
+# Maven build directories
 target/
-*.class
-*.jar
-*.war
-*.ear
+out/
 
-# OS generated files
-.DS_Store
-Thumbs.db
+# IDE-specific files
+*.iml
+*.class
+*.log
+*.sw?
+*.DS_Store
 
 # IntelliJ IDEA
 .idea/
-*.iml
-*.ipr
 *.iws
+*.ipr
 
-# VSCode
+# VS Code
 .vscode/
-
-# Logs
-*.log
 
 # Git
 .git
 .gitignore
 
-# Docker files
-Dockerfile
-render.yaml
+# Environment files
+.env
 
+# OS-specific
+Thumbs.db
+.DS_Store
+
+# Frontend (you mentioned it is outside this backend project)
+../ghibli-art-generator/

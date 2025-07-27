@@ -1,32 +1,8 @@
-# Maven build directories
 target/
-out/
-
-# IDE-specific files
 *.iml
-*.class
-*.log
-*.sw?
-*.DS_Store
-
-# IntelliJ IDEA
 .idea/
-*.iws
-*.ipr
-
-# VS Code
 .vscode/
-
-# Git
-.git
-.gitignore
-
-# Environment files
-.env
-
-# OS-specific
-Thumbs.db
+*.log
+*.class
 .DS_Store
-
-# Frontend (you mentioned it is outside this backend project)
-../ghibli-art-generator/
+.env

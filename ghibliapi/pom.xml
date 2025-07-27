@@ -8,11 +8,11 @@
 		<version>3.5.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>in.bushansirgur</groupId>
-	<artifactId>ghbliapi</artifactId>
+	<groupId>in.ROSHAN</groupId>
+	<artifactId>ghbiliapi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ghbliapi</name>
-	<description>Demo project for Spring Boot</description>
+	<name>ghibliapi</name>
+	<description> AI Ghibli api generator</description>
 	<url/>
 	<licenses>
 		<license/>

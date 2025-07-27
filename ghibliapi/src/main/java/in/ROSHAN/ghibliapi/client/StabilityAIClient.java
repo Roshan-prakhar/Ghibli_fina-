@@ -9,7 +9,7 @@ import org.springframework.web.multipart.MultipartFile;
 @FeignClient(
         name = "stabilityAiClient",
         url = "${stability.api.base-url}",
-        configuration = in.bushansirgur.ghbliapi.config.FeignConfig.class
+        configuration = in.ROSHAN.ghibliapi.config.FeignConfig.class
 )
 public interface StabilityAIClient {
 

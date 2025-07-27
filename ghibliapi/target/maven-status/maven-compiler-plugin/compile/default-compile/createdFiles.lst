@@ -1,0 +1,8 @@
+in\ROSHAN\ghibliapi\dto\TextToImageRequest.class
+in\ROSHAN\ghibliapi\controller\GenerationController.class
+in\ROSHAN\ghibliapi\client\StabilityAIClient.class
+in\ROSHAN\ghibliapi\config\FeignConfig.class
+in\ROSHAN\ghibliapi\GhibliapiApplication.class
+in\ROSHAN\ghibliapi\service\GhibliArtService.class
+in\ROSHAN\ghibliapi\dto\TextToImageRequest$TextPrompt.class
+in\ROSHAN\ghibliapi\dto\TextGenerationRequestDTO.class
